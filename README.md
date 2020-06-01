@@ -3,3 +3,4 @@ Working through the different statistical tests needed for a six sigma project. 
 
 Overview of code files:
  - Measures of variability (range, variance, standard deviation, Bessel correction, long method, short method (pandas, numpy or Scipy))
+ - Standard scores/ z scores for capturing the difference between a value and the mean - A visual method, simply calc and using SciPy
